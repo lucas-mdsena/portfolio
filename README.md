@@ -1,3 +1,7 @@
+Under construction...
+
+<br>
+
 ### EN / PT
 
 # Welcome to my Data Science Portfolio
@@ -6,12 +10,12 @@
 <br>
 
 ## Exploratory data analysis
-### Project 01 - [Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
+### [Project 01 - Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
 
 <br>
 
 ## Machine learning
-### Project 01 - [Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
+### [Project 01 - Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
 
 <br>
 
