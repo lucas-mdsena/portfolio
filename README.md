@@ -1,6 +1,7 @@
 ### EN / PT
-<br><br>
+
 # Welcome to my Data Science Portfolio
 ***
-<br>
+***
 ## Exploratory data analysis
+#### Project 01 - [Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
