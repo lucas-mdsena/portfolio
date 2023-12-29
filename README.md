@@ -7,6 +7,7 @@
 ### Project 01 - [Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
 
 <br>
+
 ## Machine learning
 ### Project 01 - [Customer's Churn Classification | Alura Data Science Challenge](https://github.com/lucas-mdsena/churn_classification)
 
