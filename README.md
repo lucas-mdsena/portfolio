@@ -6,10 +6,11 @@
 ## Exploratory data analysis
 #### Project 01 - [Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
 
-()
 ## Machine learning
 
-()
+## Data science mentoring
+#### [Introduction to machine learning and Scikit-Learn](https://github.com/lucas-mdsena/lesson-intro-ml-knn/tree/main)
+
 ## ETL
 
 
