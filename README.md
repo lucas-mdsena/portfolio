@@ -7,6 +7,7 @@
 ### Project 01 - [Brazilian Gas Price Analysis](https://github.com/lucas-mdsena/gas_price_analysis)
 
 ## Machine learning
+### Project 01 - [Alura Churn Classification Challenge](https://github.com/lucas-mdsena/churn_classification)
 
 ## Data science mentoring
 Those are the contents i've prepared and taught for the students in the [DataEngineer Help](https://www.linkedin.com/company/dataengineerhelp/) community.
