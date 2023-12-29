@@ -9,7 +9,9 @@
 ## Machine learning
 
 ## Data science mentoring
-#### [Introduction to machine learning and Scikit-Learn](https://github.com/lucas-mdsena/lesson-intro-ml-knn/tree/main)
+Those are the contents i've prepared and taught for the students in the [DataEngineer Help](https://www.linkedin.com/company/dataengineerhelp/) community.
+#### Introduction to Pandas Library
+#### Introduction to machine learning, KNN classification and Scikit-Learn](https://github.com/lucas-mdsena/lesson-intro-ml-knn/tree/main)
 
 ## ETL
 
