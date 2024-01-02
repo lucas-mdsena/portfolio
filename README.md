@@ -20,7 +20,7 @@
 
 ## Data science mentoring
 Those are the contents i've prepared and taught for the students in the [DataEngineer Help](https://www.linkedin.com/company/dataengineerhelp/) community.
-### Introduction to Pandas Library
+### Introduction to Pandas Library [almost done]
 ### [Introduction to machine learning, KNN classification and Scikit-Learn](https://github.com/lucas-mdsena/lesson-intro-ml-knn/tree/main)
 
 <br>
