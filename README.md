@@ -27,6 +27,7 @@ Those are the contents i've prepared and taught for the students in the [DataEng
 ## **Python courses from Udemy**
 I've been working on a Python course, and the contents will be avaiable a those repositories.
 ### [Data manipulation with Pandas](https://github.com/lucas-mdsena/python_udemy?tab=readme-ov-file)
+### [Data visualization with Matplotlib](https://github.com/lucas-mdsena/python_udemy_module_3)
 
 <br>
 
